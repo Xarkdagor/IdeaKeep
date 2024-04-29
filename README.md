@@ -1,16 +1,49 @@
-# notes
+# IdeaKeep
 
-A new Flutter project.
+Capture your ideas, thoughts, and to-dos with ease using IdeaKeep, a simple and intuitive notes app built with Flutter.
+
+## Features
+
+- Create and organize unlimited text notes.
+- Clean and uncluttered interface for focused note-taking.
+
+## Screenshots
+
+![IdeaKeep (2)](https://github.com/Xarkdagor/IdeaKeep/assets/110737967/3215bb00-b658-4848-8141-f1a80001b45c)
+
+
 
 ## Getting Started
+## Prerequisites
+ - Flutter Sdk
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+- Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  https://github.com/Xarkdagor/IdeaKeep.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Get dependencies:
+```bash
+  cd IdeaKeep
+```
+```bash
+  flutter pub get
+```
+- Run the app
+```bash
+  flutter run
+```
+
+## Built with
+
+- Flutter: https://flutter.dev/
+- Isar: https://isar.dev/
+- Provider: https://pub.dev/packages/provider
+
+   
+
+
+ 
